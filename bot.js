@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['ahelp - انور مش نصاب ','Type ahelp - انور مش نصاب'];
+    var setGame = ['ahelp - Blackside server ','Type ahelp - Blackside server'];
     var i = -1;
     var j = 0;
     setInterval(function (){
